@@ -2,7 +2,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Cousine:pixelsize=35:antialias=true:autohint=true";
+static char *font = "Cousine Nerd Font:pixelsize=35:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
